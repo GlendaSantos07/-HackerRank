@@ -9,7 +9,8 @@ Input Format
 
 The first line contains an integer, a.
 The seond line contains an integer, b.
-<br>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #include <stdio.h>
 #include <string.h>
